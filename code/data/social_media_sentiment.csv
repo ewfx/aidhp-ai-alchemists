@@ -1,0 +1,151 @@
+cust_id,post_id,platform,content,timestamp,sentiment_score,intent
+cust_001,8810,twitter,struggling to stick to my budget this month,1/16/2025 19:27,-0.5,budget concern
+cust_002,8811,facebook,just booked a vacation to Hawaii!,1/17/2025 10:15,0.9,travel excitement
+cust_003,8812,instagram,my new puppy is the cutest!,1/18/2025 8:45,0.8,pet joy
+cust_004,8813,linkedin,excited to start my new job next week!,1/19/2025 14:30,0.7,career milestone
+cust_005,8814,youtube,this recipe for chocolate cake is amazing!,1/20/2025 12:00,0.6,food appreciation
+cust_006,8815,reddit,feeling overwhelmed with work deadlines,1/21/2025 9:00,-0.7,work stress
+cust_007,8816,pinterest,love this DIY home decor idea!,1/22/2025 16:20,0.5,creativity
+cust_008,8817,tiktok,dancing to my favorite song!,1/23/2025 18:00,0.9,entertainment
+cust_009,8818,snapchat,missing my friends from college,1/24/2025 20:10,-0.4,nostalgia
+cust_010,8819,tumblr,this book changed my perspective on life,1/25/2025 11:30,0.8,personal growth
+cust_011,8820,twitter,why is customer service so bad these days?,1/26/2025 13:45,-0.6,frustration
+cust_012,8821,facebook,celebrating my 5-year work anniversary!,1/27/2025 9:30,0.7,career achievement
+cust_013,8822,instagram,my morning coffee is the best part of my day,1/28/2025 7:15,0.6,daily routine
+cust_014,8823,linkedin,looking for recommendations for a good project management tool,1/29/2025 15:00,0,professional advice
+cust_015,8824,youtube,this new song is stuck in my head!,1/30/2025 17:30,0.8,music enjoyment
+cust_016,8825,reddit,my cat won't stop meowing at night,1/31/2025 22:00,-0.3,pet behavior
+cust_017,8826,pinterest,planning my dream wedding!,2/1/2025 12:00,0.9,life event
+cust_018,8827,snapchat,just got a promotion at work!,2/2/2025 16:45,0.8,career success
+cust_019,8828,tiktok,this workout routine is killing me!,2/3/2025 7:00,-0.2,fitness struggle
+cust_020,8829,twitter,can't believe how expensive groceries are now,2/4/2025 18:30,-0.6,financial concern
+cust_021,8830,facebook,my garden is blooming beautifully this spring,2/5/2025 9:15,0.7,nature appreciation
+cust_022,8831,instagram,finally finished my novel!,2/6/2025 14:00,0.9,personal achievement
+cust_023,8832,linkedin,anyone else struggling with remote work?,2/7/2025 11:30,-0.4,work challenges
+cust_024,8833,youtube,this documentary on climate change is eye-opening,2/8/2025 20:00,0.7,awareness
+cust_025,8834,reddit,my dog ate my homework...literally,2/9/2025 22:15,-0.1,pet mischief
+cust_026,8835,pinterest,organizing my closet feels so satisfying,2/10/2025 10:45,0.6,organization
+cust_027,8836,snapchat,this new restaurant is amazing!,2/11/2025 19:00,0.8,food discovery
+cust_028,8837,tiktok,my toddler's dance moves are hilarious,2/12/2025 8:30,0.9,family fun
+cust_029,8838,twitter,traffic is unbearable today,2/13/2025 17:45,-0.5,commute frustration
+cust_030,8839,facebook,my team won the championship!,2/14/2025 21:00,0.9,sports victory
+cust_031,8840,instagram,this sunset is breathtaking,2/15/2025 18:15,0.8,nature beauty
+cust_032,8841,linkedin,looking for a mentor in the tech industry,2/16/2025 12:30,0.1,professional growth
+cust_033,8842,youtube,this tutorial saved my project,2/17/2025 14:45,0.7,learning
+cust_034,8843,reddit,my phone battery dies so fast,2/18/2025 9:00,-0.3,tech frustration
+cust_035,8844,pinterest,this wedding dress is perfect!,2/19/2025 16:30,0.9,wedding planning
+cust_036,8845,snapchat,my best friend surprised me with a gift,2/20/2025 20:45,0.8,friendship
+cust_037,8846,tiktok,this recipe failed miserably,2/21/2025 7:30,-0.4,cooking fail
+cust_038,8847,twitter,why is public transportation always late?,2/22/2025 18:00,-0.6,commute complaint
+cust_039,8848,facebook,my baby's first steps!,2/23/2025 10:15,0.9,family milestone
+cust_040,8849,instagram,this hike was exactly what I needed,2/24/2025 14:30,0.7,outdoor activity
+cust_041,8850,linkedin,just completed a major project at work,2/25/2025 16:45,0.8,career accomplishment
+cust_042,8851,youtube,this comedian is hilarious!,2/26/2025 21:00,0.9,entertainment
+cust_043,8852,reddit,my laptop crashed and I lost all my files,2/27/2025 11:30,-0.7,tech disaster
+cust_044,8853,pinterest,this DIY project turned out great!,2/28/2025 13:45,0.6,crafting
+cust_045,8854,snapchat,my dog learned a new trick!,3/1/2025 8:00,0.8,pet training
+cust_046,8855,tiktok,this makeup tutorial is a game-changer,3/2/2025 17:15,0.7,beauty tips
+cust_047,8856,twitter,why is it so hard to find good customer service?,3/3/2025 19:30,-0.5,frustration
+cust_048,8857,facebook,my garden is full of weeds,3/4/2025 10:45,-0.2,gardening struggle
+cust_049,8858,instagram,this concert was unforgettable,3/5/2025 22:00,0.9,music experience
+cust_050,8859,linkedin,looking for networking opportunities in my field,3/6/2025 12:15,0.1,professional networking
+cust_051,8860,youtube,this video game is so addictive,3/7/2025 14:30,0.8,gaming
+cust_052,8861,reddit,my car broke down on the highway,3/8/2025 9:45,-0.6,vehicle trouble
+cust_053,8862,pinterest,this home renovation idea is brilliant,3/9/2025 16:00,0.7,home improvement
+cust_054,8863,snapchat,my cat loves the new toy I bought,3/10/2025 20:15,0.8,pet happiness
+cust_055,8864,tiktok,this dance challenge is so fun!,3/11/2025 7:30,0.9,social media trend
+cust_056,8865,twitter,why are flights so expensive right now?,3/12/2025 18:45,-0.4,travel frustration
+cust_057,8866,facebook,my child's school play was amazing,3/13/2025 10:00,0.8,family pride
+cust_058,8867,instagram,this art exhibit is inspiring,3/14/2025 14:15,0.7,art appreciation
+cust_059,8868,linkedin,just got certified in a new skill!,3/15/2025 16:30,0.8,professional development
+cust_060,8869,youtube,this movie made me cry,3/16/2025 21:45,0.7,emotional experience
+cust_061,8870,reddit,my internet is so slow today,3/17/2025 11:00,-0.3,tech frustration
+cust_062,8871,pinterest,this party decoration idea is perfect,3/18/2025 13:15,0.6,event planning
+cust_063,8872,snapchat,my friend's surprise party was a success,3/19/2025 8:30,0.8,friendship
+cust_064,8873,tiktok,this recipe is a must-try!,3/20/2025 17:45,0.7,cooking success
+cust_065,8874,twitter,why is it so hard to find parking downtown?,3/21/2025 19:00,-0.5,commute frustration
+cust_066,8875,facebook,my dog won first prize at the pet show,3/22/2025 10:15,0.9,pet achievement
+cust_067,8876,instagram,this beach vacation is exactly what I needed,3/23/2025 14:30,0.8,relaxation
+cust_068,8877,linkedin,looking for advice on career transitions,3/24/2025 16:45,0.1,professional advice
+cust_069,8878,youtube,this tech review is very informative,3/25/2025 21:00,0.7,tech review
+cust_070,8879,reddit,my phone screen cracked again,3/26/2025 11:15,-0.4,tech frustration
+cust_071,8880,pinterest,this nursery design is adorable,3/27/2025 13:30,0.6,home decor
+cust_072,8881,snapchat,my cat is obsessed with this new toy,3/28/2025 8:45,0.8,pet happiness
+cust_073,8882,tiktok,this workout challenge is intense,3/29/2025 17:00,0.7,fitness motivation
+cust_074,8883,twitter,why is the weather so unpredictable?,3/30/2025 19:15,-0.3,weather complaint
+cust_075,8884,facebook,my child's graduation ceremony was beautiful,3/31/2025 10:30,0.9,family milestone
+cust_076,8885,instagram,this mountain view is stunning,4/1/2025 14:45,0.8,nature beauty
+cust_077,8886,linkedin,just published my first article!,4/2/2025 16:00,0.8,professional achievement
+cust_078,8887,youtube,this song is my new favorite,4/3/2025 21:15,0.7,music enjoyment
+cust_079,8888,reddit,my laptop is overheating,4/4/2025 11:30,-0.5,tech issue
+cust_080,8889,pinterest,this DIY gift idea is so thoughtful,4/5/2025 13:45,0.6,crafting
+cust_081,8890,snapchat,my dog loves the new park,4/6/2025 8:00,0.8,pet happiness
+cust_082,8891,tiktok,this dance routine is so fun to learn,4/7/2025 17:15,0.9,social media trend
+cust_083,8892,twitter,why is customer support always busy?,4/8/2025 19:30,-0.6,frustration
+cust_084,8893,facebook,my garden is thriving this season,4/9/2025 10:45,0.7,gardening success
+cust_085,8894,instagram,this coffee shop has the best pastries,4/10/2025 14:00,0.8,food discovery
+cust_086,8895,linkedin,looking for tips on improving productivity,4/11/2025 16:15,0.1,professional advice
+cust_087,8896,youtube,this travel vlog is so inspiring,4/12/2025 21:30,0.7,travel inspiration
+cust_088,8897,reddit,my phone's battery life is terrible,4/13/2025 11:45,-0.4,tech frustration
+cust_089,8898,pinterest,this home office setup is perfect,4/14/2025 13:00,0.6,home improvement
+cust_090,8899,snapchat,my cat is so playful today,4/15/2025 8:15,0.8,pet happiness
+cust_091,8900,tiktok,this recipe is a family favorite,4/16/2025 17:30,0.7,cooking success
+cust_092,8901,twitter,why is public Wi-Fi so unreliable?,4/17/2025 19:45,-0.5,tech frustration
+cust_093,8902,facebook,my child's artwork won an award,4/18/2025 10:00,0.9,family pride
+cust_094,8903,instagram,this hiking trail is breathtaking,4/19/2025 14:15,0.8,outdoor activity
+cust_095,8904,linkedin,just completed a leadership course,4/20/2025 16:30,0.8,professional development
+cust_096,8905,youtube,this comedy sketch is hilarious,4/21/2025 21:45,0.9,entertainment
+cust_097,8906,reddit,my computer crashed during an important meeting,4/22/2025 11:00,-0.7,tech disaster
+cust_098,8907,pinterest,this DIY project was so satisfying,4/23/2025 13:15,0.6,crafting
+cust_099,8908,snapchat,my dog loves the new treat I bought,4/24/2025 8:30,0.8,pet happiness
+cust_100,8909,tiktok,this dance challenge is so much fun!,4/25/2025 17:45,0.9,social media trend
+org_001,8810,twitter,navigating fluctuations in raw material prices!! cash flow planning is key,1/16/2025 19:27,-0.5,financial management concern
+org_002,8811,facebook,excited to announce our new sustainability initiative!,1/17/2025 10:15,0.8,sustainability announcement
+org_003,8812,instagram,our team just won an industry award for innovation!,1/18/2025 8:45,0.9,achievement celebration
+org_004,8813,linkedin,looking for partnerships to expand our market reach,1/19/2025 14:30,0.6,business collaboration
+org_005,8814,youtube,check out our latest product demo video!,1/20/2025 12:00,0.7,product promotion
+org_006,8815,reddit,struggling with supply chain disruptions this quarter,1/21/2025 9:00,-0.6,supply chain challenges
+org_007,8816,pinterest,our new office design is all about productivity and creativity!,1/22/2025 16:20,0.8,workplace improvement
+org_008,8817,tiktok,our team bonding event was a huge success!,1/23/2025 18:00,0.9,team building
+org_009,8818,snapchat,dealing with unexpected regulatory changes in our industry,1/24/2025 20:10,-0.4,regulatory challenges
+org_010,8819,tumblr,our new CSR program is making a real impact!,1/25/2025 11:30,0.8,corporate social responsibility
+org_011,8820,twitter,why is it so hard to find skilled talent in this market?,1/26/2025 13:45,-0.5,recruitment challenges
+org_012,8821,facebook,celebrating 10 years of business this month!,1/27/2025 9:30,0.9,anniversary celebration
+org_013,8822,instagram,our new ad campaign is live – check it out!,1/28/2025 7:15,0.7,marketing campaign
+org_014,8823,linkedin,seeking feedback on our new customer service platform,1/29/2025 15:00,0.1,customer experience improvement
+org_015,8824,youtube,our CEO's keynote at the conference was inspiring!,1/30/2025 17:30,0.8,leadership inspiration
+org_016,8825,reddit,our software update caused unexpected downtime,1/31/2025 22:00,-0.7,technical issues
+org_017,8826,pinterest,our new packaging design is eco-friendly and stylish!,2/1/2025 12:00,0.8,sustainable packaging
+org_018,8827,snapchat,our team is growing – welcome to our new hires!,2/2/2025 16:45,0.7,team expansion
+org_019,8828,tiktok,our latest product launch is trending!,2/3/2025 7:00,0.9,product launch success
+org_020,8829,twitter,rising energy costs are impacting our operations,2/4/2025 18:30,-0.6,operational challenges
+org_021,8830,facebook,our new training program is boosting employee skills,2/5/2025 9:15,0.7,employee development
+org_022,8831,instagram,our holiday sale starts tomorrow – don't miss it!,2/6/2025 14:00,0.8,sales promotion
+org_023,8832,linkedin,exploring AI solutions to improve our workflows,2/7/2025 11:30,0.5,technology innovation
+org_024,8833,youtube,our factory tour video is now live!,2/8/2025 20:00,0.7,behind-the-scenes content
+org_025,8834,reddit,our customer support team is overwhelmed with requests,2/9/2025 22:15,-0.4,customer support challenges
+org_026,8835,pinterest,our new employee wellness program is a hit!,2/10/2025 10:45,0.8,employee wellness
+org_027,8836,snapchat,our latest partnership is a game-changer!,2/11/2025 19:00,0.9,strategic partnership
+org_028,8837,tiktok,our team is crushing it at the industry conference!,2/12/2025 8:30,0.9,industry event
+org_029,8838,twitter,why are logistics costs skyrocketing this year?,2/13/2025 17:45,-0.5,logistics challenges
+org_030,8839,facebook,our new app feature is receiving great feedback!,2/14/2025 21:00,0.8,product improvement
+org_031,8840,instagram,our sustainability report is now available online,2/15/2025 18:15,0.7,sustainability transparency
+org_032,8841,linkedin,looking for investors to scale our operations,2/16/2025 12:30,0.2,investment outreach
+org_033,8842,youtube,"youtube,our team's charity run raised $10,000 for a good cause!",2/17/2025 14:45,0.9,charity initiative
+org_034,8843,reddit,our new software update has some bugs to fix,2/18/2025 9:00,-0.3,technical issues
+org_035,8844,pinterest,our new product line is inspired by customer feedback!,2/19/2025 16:30,0.8,customer-driven innovation
+org_036,8845,snapchat,our team is celebrating a record-breaking quarter!,2/20/2025 20:45,0.9,business success
+org_037,8846,tiktok,our latest ad campaign is going viral!,2/21/2025 7:30,0.9,marketing success
+org_038,8847,twitter,why is it so hard to retain top talent in this industry?,2/22/2025 18:00,-0.5,employee retention
+org_039,8848,facebook,our new office location is now open!,2/23/2025 10:15,0.8,business expansion
+org_040,8849,instagram,our team is volunteering at the local food bank today,2/24/2025 14:30,0.7,community engagement
+org_041,8850,linkedin,our new AI tool is transforming our workflows,2/25/2025 16:45,0.8,technology adoption
+org_042,8851,youtube,our CEO's interview on industry trends is live!,2/26/2025 21:00,0.7,thought leadership
+org_043,8852,reddit,our customer feedback portal is now live – share your thoughts!,2/27/2025 11:30,0.1,customer engagement
+org_044,8853,pinterest,our new product packaging is winning awards!,2/28/2025 13:45,0.8,design excellence
+org_045,8854,snapchat,our team is attending the global tech summit this week!,3/1/2025 8:00,0.7,industry event
+org_046,8855,tiktok,our latest product demo is trending on social media!,3/2/2025 17:15,0.9,product buzz
+org_047,8856,twitter,why are raw material prices so volatile this quarter?,3/3/2025 19:30,-0.6,supply chain concerns
+org_048,8857,facebook,our new employee training program is a success!,3/4/2025 10:45,0.8,employee development
+org_049,8858,instagram,our team is celebrating International Women's Day!,3/5/2025 22:00,0.9,diversity and inclusion
+org_050,8859,linkedin,our new sustainability goals are now live on our website,3/6/2025 12:15,0.7,sustainability commitment

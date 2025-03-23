@@ -1,0 +1,101 @@
+org_id,industry,financial_needs,preferences,revenue,no_of_employees
+org_001,Fashion and Clothing,"supply chain financing, inventory loans, retail banking","influencer marketing, international expansion, sustainable fabrics",150M-200M,800-1500
+org_002,Technology,"venture capital, R&D funding, equipment financing","AI development, cloud computing, cybersecurity",500M-700M,2000-3000
+org_003,Healthcare,"medical equipment financing, working capital, expansion loans","telemedicine, patient care innovation, digital health",300M-400M,1500-2000
+org_004,Retail,"inventory loans, working capital, point-of-sale financing","e-commerce expansion, customer loyalty programs, sustainable packaging",200M-300M,1000-1500
+org_005,Automotive,"supply chain financing, equipment loans, R&D funding","electric vehicles, autonomous driving, sustainability",1B-1.5B,5000-7000
+org_006,Food and Beverage,"working capital, inventory financing, expansion loans","organic products, farm-to-table, sustainable sourcing",400M-500M,2500-3500
+org_007,Real Estate,"property acquisition loans, construction financing, working capital","smart homes, green building, urban development",800M-1B,3000-4000
+org_008,Education,"student loan financing, infrastructure funding, working capital","online learning, STEM programs, international campuses",100M-150M,500-800
+org_009,Energy,"renewable energy financing, infrastructure loans, working capital","solar power, wind energy, sustainability",2B-3B,10000-12000
+org_010,Telecommunications,"5G infrastructure funding, working capital, R&D financing","broadband expansion, IoT, cybersecurity",1.5B-2B,8000-10000
+org_011,Pharmaceuticals,"R&D funding, clinical trial financing, working capital","biotech innovation, vaccine development, global health",3B-4B,15000-20000
+org_012,Logistics,"fleet financing, working capital, supply chain funding","automation, last-mile delivery, sustainability",600M-800M,4000-5000
+org_013,Entertainment,"content production financing, working capital, expansion loans","streaming platforms, virtual reality, global content",700M-900M,3000-3500
+org_014,Agriculture,"farm equipment financing, working capital, supply chain funding","organic farming, precision agriculture, sustainability",200M-300M,1000-1500
+org_015,Manufacturing,"equipment financing, working capital, R&D funding","automation, green manufacturing, supply chain optimization",1B-1.2B,6000-7000
+org_016,Travel and Tourism,"working capital, expansion loans, infrastructure funding","eco-tourism, digital booking platforms, luxury travel",400M-500M,2000-2500
+org_017,Finance,"working capital, fintech innovation funding, expansion loans","blockchain, digital banking, financial inclusion",2B-2.5B,10000-12000
+org_018,Construction,"construction financing, equipment loans, working capital","green building, modular construction, infrastructure development",800M-1B,5000-6000
+org_019,Media and Advertising,"content production financing, working capital, expansion loans","digital advertising, influencer marketing, data analytics",300M-400M,1500-2000
+org_020,Consumer Electronics,"R&D funding, working capital, inventory financing","smart devices, IoT, sustainability",1.5B-2B,8000-10000
+org_021,Transportation,"fleet financing, working capital, infrastructure funding","electric vehicles, autonomous driving, logistics optimization",1B-1.2B,7000-8000
+org_022,Hospitality,"working capital, expansion loans, renovation financing","luxury resorts, eco-friendly hotels, digital guest experiences",500M-600M,3000-3500
+org_023,Chemicals,"R&D funding, working capital, equipment financing","green chemistry, sustainable materials, innovation",900M-1B,4000-5000
+org_024,Utilities,"infrastructure funding, working capital, renewable energy financing","smart grids, sustainability, energy efficiency",1.5B-2B,10000-12000
+org_025,Aerospace,"R&D funding, equipment financing, working capital","space exploration, sustainable aviation, defense technology",3B-4B,20000-25000
+org_026,Sports and Fitness,"working capital, expansion loans, equipment financing","wearable tech, fitness apps, global events",200M-300M,1000-1500
+org_027,Non-Profit,"donation funding, working capital, program financing","education, healthcare, sustainability",50M-100M,200-500
+org_028,Insurance,"working capital, fintech innovation funding, expansion loans","digital insurance, cybersecurity, customer experience",1B-1.5B,8000-10000
+org_029,Legal Services,"working capital, expansion loans, technology financing","legal tech, AI in law, global expansion",100M-150M,500-800
+org_030,Consulting,"working capital, expansion loans, technology financing","digital transformation, sustainability consulting, global reach",200M-300M,1000-1500
+org_031,Beauty and Cosmetics,"working capital, inventory financing, R&D funding","clean beauty, influencer marketing, global expansion",400M-500M,2000-2500
+org_032,Pet Care,"working capital, inventory financing, expansion loans","premium pet food, pet tech, sustainability",100M-150M,500-800
+org_033,Furniture and Home Decor,"working capital, inventory financing, expansion loans","sustainable materials, e-commerce, luxury design",300M-400M,1500-2000
+org_034,Jewelry and Accessories,"working capital, inventory financing, expansion loans","luxury brands, sustainable sourcing, e-commerce",200M-300M,1000-1500
+org_035,Music and Entertainment,"content production financing, working capital, expansion loans","streaming platforms, live events, global reach",500M-600M,3000-3500
+org_036,Biotechnology,"R&D funding, clinical trial financing, working capital","genetic engineering, vaccine development, sustainability",1B-1.5B,5000-7000
+org_037,Environmental Services,"working capital, infrastructure funding, expansion loans","waste management, renewable energy, sustainability",300M-400M,1500-2000
+org_038,Food Delivery,"working capital, fleet financing, expansion loans","last-mile delivery, sustainability, tech innovation",400M-500M,2000-2500
+org_039,Gaming,"content production financing, working capital, expansion loans","esports, virtual reality, global gaming communities",600M-800M,3000-3500
+org_040,Event Management,"working capital, expansion loans, technology financing","virtual events, sustainability, global reach",100M-150M,500-800
+org_041,Printing and Publishing,"working capital, equipment financing, expansion loans","digital publishing, sustainability, global distribution",200M-300M,1000-1500
+org_042,Textiles,"working capital, inventory financing, expansion loans","sustainable fabrics, global sourcing, e-commerce",300M-400M,1500-2000
+org_043,Marine,"working capital, equipment financing, expansion loans","sustainable shipping, marine conservation, global trade",500M-600M,3000-3500
+org_044,Space Technology,"R&D funding, working capital, infrastructure financing","satellite technology, space exploration, sustainability",1B-1.5B,5000-7000
+org_045,Artificial Intelligence,"R&D funding, working capital, expansion loans","AI ethics, automation, global innovation",800M-1B,4000-5000
+org_046,Cybersecurity,"R&D funding, working capital, expansion loans","data protection, AI in cybersecurity, global reach",500M-600M,3000-3500
+org_047,Blockchain,"R&D funding, working capital, expansion loans","decentralized finance, NFTs, global adoption",300M-400M,1500-2000
+org_048,Robotics,"R&D funding, working capital, equipment financing","automation, AI integration, global innovation",600M-800M,3000-3500
+org_049,Green Energy,"working capital, infrastructure funding, expansion loans","solar power, wind energy, sustainability",1B-1.5B,5000-7000
+org_050,Water Treatment,"working capital, infrastructure funding, expansion loans","sustainable water management, global solutions",400M-500M,2000-2500
+org_051,Forestry,"working capital, equipment financing, expansion loans","sustainable logging, conservation, global trade",200M-300M,1000-1500
+org_052,Mining,"working capital, equipment financing, expansion loans","sustainable mining, automation, global operations",1B-1.5B,5000-7000
+org_053,Fisheries,"working capital, equipment financing, expansion loans","sustainable fishing, aquaculture, global trade",100M-150M,500-800
+org_054,Aviation,"working capital, equipment financing, expansion loans","sustainable aviation, global routes, luxury travel",2B-2.5B,10000-12000
+org_055,Railways,"working capital, infrastructure funding, expansion loans","high-speed rail, sustainability, global connectivity",1B-1.5B,8000-10000
+org_056,Shipping,"working capital, fleet financing, expansion loans","sustainable shipping, global trade, automation",800M-1B,5000-6000
+org_057,Oil and Gas,"working capital, equipment financing, expansion loans","sustainable energy, global operations, innovation",3B-4B,20000-25000
+org_058,Renewable Energy,"working capital, infrastructure funding, expansion loans","solar power, wind energy, sustainability",1.5B-2B,10000-12000
+org_059,Waste Management,"working capital, infrastructure funding, expansion loans","recycling, sustainability, global solutions",500M-600M,3000-3500
+org_060,Construction Materials,"working capital, equipment financing, expansion loans","sustainable materials, global sourcing, innovation",1B-1.5B,6000-7000
+org_061,Electronics Manufacturing,"working capital, R&D funding, expansion loans","automation, IoT, sustainability",2B-2.5B,10000-12000
+org_062,Automotive Parts,"working capital, equipment financing, expansion loans","electric vehicles, sustainability, global trade",1B-1.5B,8000-10000
+org_063,Medical Devices,"R&D funding, working capital, expansion loans","innovation, global health, sustainability",800M-1B,5000-6000
+org_064,Pharmaceutical Manufacturing,"R&D funding, working capital, expansion loans","biotech innovation, global health, sustainability",2B-2.5B,15000-20000
+org_065,Food Processing,"working capital, equipment financing, expansion loans","sustainable sourcing, automation, global trade",1B-1.5B,6000-7000
+org_066,Textile Manufacturing,"working capital, equipment financing, expansion loans","sustainable fabrics, global trade, innovation",500M-600M,3000-3500
+org_067,Chemical Manufacturing,"working capital, R&D funding, expansion loans","green chemistry, sustainability, global trade",1B-1.5B,8000-10000
+org_068,Metal Manufacturing,"working capital, equipment financing, expansion loans","sustainable materials, global trade, innovation",1.5B-2B,10000-12000
+org_069,Plastics Manufacturing,"working capital, equipment financing, expansion loans","sustainable materials, global trade, innovation",800M-1B,5000-6000
+org_070,Paper Manufacturing,"working capital, equipment financing, expansion loans","sustainable materials, global trade, innovation",500M-600M,3000-3500
+org_071,Glass Manufacturing,"working capital, equipment financing, expansion loans","sustainable materials, global trade, innovation",400M-500M,2000-2500
+org_072,Ceramics Manufacturing,"working capital, equipment financing, expansion loans","sustainable materials, global trade, innovation",300M-400M,1500-2000
+org_073,Wood Manufacturing,"working capital, equipment financing, expansion loans","sustainable materials, global trade, innovation",200M-300M,1000-1500
+org_074,Rubber Manufacturing,"working capital, equipment financing, expansion loans","sustainable materials, global trade, innovation",100M-150M,500-800
+org_075,Leather Manufacturing,"working capital, equipment financing, expansion loans","sustainable materials, global trade, innovation",50M-100M,200-500
+org_076,Plumbing,"working capital, equipment financing, expansion loans","sustainable materials, global trade, innovation",100M-150M,500-800
+org_077,Electrical,"working capital, equipment financing, expansion loans","sustainable materials, global trade, innovation",200M-300M,1000-1500
+org_078,Mechanical,"working capital, equipment financing, expansion loans","sustainable materials, global trade, innovation",300M-400M,1500-2000
+org_079,Civil Engineering,"working capital, equipment financing, expansion loans","sustainable materials, global trade, innovation",400M-500M,2000-2500
+org_080,Architecture,"working capital, equipment financing, expansion loans","sustainable materials, global trade, innovation",500M-600M,3000-3500
+org_081,Interior Design,"working capital, equipment financing, expansion loans","sustainable materials, global trade, innovation",600M-700M,4000-4500
+org_082,Landscaping,"working capital, equipment financing, expansion loans","sustainable materials, global trade, innovation",700M-800M,5000-5500
+org_083,Urban Planning,"working capital, equipment financing, expansion loans","sustainable materials, global trade, innovation",800M-900M,6000-6500
+org_084,Environmental Consulting,"working capital, equipment financing, expansion loans","sustainable materials, global trade, innovation",900M-1B,7000-7500
+org_085,Energy Consulting,"working capital, equipment financing, expansion loans","sustainable materials, global trade, innovation",1B-1.5B,8000-8500
+org_086,Management Consulting,"working capital, equipment financing, expansion loans","sustainable materials, global trade, innovation",1.5B-2B,9000-9500
+org_087,Financial Consulting,"working capital, equipment financing, expansion loans","sustainable materials, global trade, innovation",2B-2.5B,10000-10500
+org_088,Legal Consulting,"working capital, equipment financing, expansion loans","sustainable materials, global trade, innovation",2.5B-3B,11000-11500
+org_089,IT Consulting,"working capital, equipment financing, expansion loans","sustainable materials, global trade, innovation",3B-3.5B,12000-12500
+org_090,HR Consulting,"working capital, equipment financing, expansion loans","sustainable materials, global trade, innovation",3.5B-4B,13000-13500
+org_091,Marketing Consulting,"working capital, equipment financing, expansion loans","sustainable materials, global trade, innovation",4B-4.5B,14000-14500
+org_092,PR Consulting,"working capital, equipment financing, expansion loans","sustainable materials, global trade, innovation",4.5B-5B,15000-15500
+org_093,Advertising,"working capital, equipment financing, expansion loans","sustainable materials, global trade, innovation",5B-5.5B,16000-16500
+org_094,Media,"working capital, equipment financing, expansion loans","sustainable materials, global trade, innovation",5.5B-6B,17000-17500
+org_095,Publishing,"working capital, equipment financing, expansion loans","sustainable materials, global trade, innovation",6B-6.5B,18000-18500
+org_096,Broadcasting,"working capital, equipment financing, expansion loans","sustainable materials, global trade, innovation",6.5B-7B,19000-19500
+org_097,Film Production,"working capital, equipment financing, expansion loans","sustainable materials, global trade, innovation",7B-7.5B,20000-20500
+org_098,Music Production,"working capital, equipment financing, expansion loans","sustainable materials, global trade, innovation",7.5B-8B,21000-21500
+org_099,Event Production,"working capital, equipment financing, expansion loans","sustainable materials, global trade, innovation",8B-8.5B,22000-22500
+org_100,Sports Management,"working capital, equipment financing, expansion loans","sustainable materials, global trade, innovation",8.5B-9B,23000-23500

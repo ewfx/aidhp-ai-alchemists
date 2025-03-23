@@ -1,0 +1,101 @@
+cust_id,product_id,transaction_type,category,amount,purchase_date,payment_mode
+cust_001,201,Luxury Shopping,Gucci,3000,1/5/2025,Credit Card
+org_001,202,Office Supplies,Staples,150,1/6/2025,Debit Card
+cust_002,203,Electronics,Apple,1200,1/7/2025,Online Banking
+org_002,204,Industrial Tools,DeWalt,450,1/8/2025,Credit Card
+cust_003,205,Fashion,Zara,200,1/9/2025,Debit Card
+org_003,206,Software,Microsoft,800,1/10/2025,Online Banking
+cust_004,207,Home Decor,IKEA,600,1/11/2025,Credit Card
+org_004,208,Medical Equipment,Philips,1200,1/12/2025,Debit Card
+cust_005,209,Jewelry,Tiffany & Co.,5000,1/13/2025,Credit Card
+org_005,210,Office Furniture,Herman Miller,3000,1/14/2025,Online Banking
+cust_006,211,Sports,Nike,150,1/15/2025,Debit Card
+org_006,212,Construction,Caterpillar,2500,1/16/2025,Credit Card
+cust_007,213,Electronics,Samsung,900,1/17/2025,Online Banking
+org_007,214,Telecom,Verizon,300,1/18/2025,Debit Card
+cust_008,215,Automotive,Tesla,70000,1/19/2025,Credit Card
+org_008,216,Logistics,FedEx,500,1/20/2025,Online Banking
+cust_009,217,Entertainment,Netflix,15,1/21/2025,Debit Card
+org_009,218,Energy,Shell,1200,1/22/2025,Credit Card
+cust_010,219,Travel,Expedia,1200,1/23/2025,Online Banking
+org_010,220,Pharmaceuticals,Pfizer,3000,1/24/2025,Debit Card
+cust_011,221,Food & Beverage,Starbucks,10,1/25/2025,Credit Card
+org_011,222,Agriculture,John Deere,4500,1/26/2025,Online Banking
+cust_012,223,Beauty,Sephora,100,1/27/2025,Debit Card
+org_012,224,Automotive,Ford,20000,1/28/2025,Credit Card
+cust_013,225,Electronics,Sony,800,1/29/2025,Online Banking
+org_013,226,Retail,Walmart,300,1/30/2025,Debit Card
+cust_014,227,Home Improvement,Home Depot,400,2/1/2025,Credit Card
+org_014,228,Telecom,AT&T,250,2/2/2025,Online Banking
+cust_015,229,Fashion,H&M,80,2/3/2025,Debit Card
+org_015,230,Technology,IBM,1500,2/4/2025,Credit Card
+cust_016,231,Electronics,LG,700,2/5/2025,Online Banking
+org_016,232,Transportation,UPS,400,2/6/2025,Debit Card
+cust_017,233,Travel,Booking.com,600,2/7/2025,Credit Card
+org_017,234,Energy,Chevron,900,2/8/2025,Online Banking
+cust_018,235,Entertainment,Spotify,12,2/9/2025,Debit Card
+org_018,236,Pharmaceuticals,Johnson & Johnson,2000,2/10/2025,Credit Card
+cust_019,237,Food & Beverage,McDonald's,8,2/11/2025,Online Banking
+org_019,238,Agriculture,Monsanto,3000,2/12/2025,Debit Card
+cust_020,239,Beauty,Ulta Beauty,120,2/13/2025,Credit Card
+org_020,240,Automotive,General Motors,25000,2/14/2025,Online Banking
+cust_021,241,Electronics,Panasonic,600,2/15/2025,Debit Card
+org_021,242,Retail,Target,200,2/16/2025,Credit Card
+cust_022,243,Home Improvement,Lowe's,350,2/17/2025,Online Banking
+org_022,244,Telecom,T-Mobile,150,2/18/2025,Debit Card
+cust_023,245,Fashion,Uniqlo,70,2/19/2025,Credit Card
+org_023,246,Technology,Dell,1200,2/20/2025,Online Banking
+cust_024,247,Electronics,HP,500,2/21/2025,Debit Card
+org_024,248,Transportation,DHL,300,2/22/2025,Credit Card
+cust_025,249,Travel,Kayak,400,2/23/2025,Online Banking
+org_025,250,Energy,ExxonMobil,1100,2/24/2025,Debit Card
+cust_026,251,Entertainment,Hulu,10,2/25/2025,Credit Card
+org_026,252,Pharmaceuticals,Merck,1800,2/26/2025,Online Banking
+cust_027,253,Food & Beverage,Subway,7,2/27/2025,Debit Card
+org_027,254,Agriculture,Syngenta,2500,2/28/2025,Credit Card
+cust_028,255,Beauty,Mac Cosmetics,90,3/1/2025,Online Banking
+org_028,256,Automotive,Toyota,22000,3/2/2025,Debit Card
+cust_029,257,Electronics,Canon,450,3/3/2025,Credit Card
+org_029,258,Retail,Costco,100,3/4/2025,Online Banking
+cust_030,259,Home Improvement,Menards,300,3/5/2025,Debit Card
+org_030,260,Telecom,Sprint,200,3/6/2025,Credit Card
+cust_031,261,Fashion,Gap,60,3/7/2025,Online Banking
+org_031,262,Technology,Oracle,1300,3/8/2025,Debit Card
+cust_032,263,Electronics,Asus,550,3/9/2025,Credit Card
+org_032,264,Transportation,USPS,250,3/10/2025,Online Banking
+cust_033,265,Travel,Airbnb,500,3/11/2025,Debit Card
+org_033,266,Energy,BP,1000,3/12/2025,Credit Card
+cust_034,267,Entertainment,Disney+,8,3/13/2025,Online Banking
+org_034,268,Pharmaceuticals,AstraZeneca,2200,3/14/2025,Debit Card
+cust_035,269,Food & Beverage,Burger King,9,3/15/2025,Credit Card
+org_035,270,Agriculture,DowDuPont,2800,3/16/2025,Online Banking
+cust_036,271,Beauty,L'Oreal,110,3/17/2025,Debit Card
+org_036,272,Automotive,Honda,21000,3/18/2025,Credit Card
+cust_037,273,Electronics,Xiaomi,400,3/19/2025,Online Banking
+org_037,274,Retail,Kroger,150,3/20/2025,Debit Card
+cust_038,275,Home Improvement,Ace Hardware,250,3/21/2025,Credit Card
+org_038,276,Telecom,Verizon,180,3/22/2025,Online Banking
+cust_039,277,Fashion,Levi's,75,3/23/2025,Debit Card
+org_039,278,Technology,SAP,1400,3/24/2025,Credit Card
+cust_040,279,Electronics,OnePlus,350,3/25/2025,Online Banking
+org_040,280,Transportation,FedEx,220,3/26/2025,Debit Card
+cust_041,281,Travel,TripAdvisor,450,3/27/2025,Credit Card
+org_041,282,Energy,Total,950,3/28/2025,Online Banking
+cust_042,283,Entertainment,Amazon Prime,12,3/29/2025,Debit Card
+org_042,284,Pharmaceuticals,Novartis,2400,3/30/2025,Credit Card
+cust_043,285,Food & Beverage,Dominos,11,3/31/2025,Online Banking
+org_043,286,Agriculture,BASF,2600,4/1/2025,Debit Card
+cust_044,287,Beauty,Estee Lauder,130,4/2/2025,Credit Card
+org_044,288,Automotive,Nissan,19000,4/3/2025,Online Banking
+cust_045,289,Electronics,Lenovo,500,4/4/2025,Debit Card
+org_045,290,Retail,Albertsons,120,4/5/2025,Credit Card
+cust_046,291,Home Improvement,True Value,200,4/6/2025,Online Banking
+org_046,292,Telecom,AT&T,160,4/7/2025,Debit Card
+cust_047,293,Fashion,Calvin Klein,85,4/8/2025,Credit Card
+org_047,294,Technology,Intel,1500,4/9/2025,Online Banking
+cust_048,295,Electronics,Acer,450,4/10/2025,Debit Card
+org_048,296,Transportation,DHL,280,4/11/2025,Credit Card
+cust_049,297,Travel,Priceline,550,4/12/2025,Online Banking
+org_049,298,Energy,Chevron,900,4/13/2025,Debit Card
+cust_050,299,Entertainment,YouTube Premium,15,4/14/2025,Credit Card
+org_050,300,Pharmaceuticals,Roche,2300,4/15/2025,Online Banking

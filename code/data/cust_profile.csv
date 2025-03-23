@@ -1,0 +1,101 @@
+cust_id,age,gender,location,interests,preferences,income_per_year,education,occupation
+cust_001,25,Female,New York,"Luxury Shopping, Travel, Dining","discounts, new arrivals",18000,Masters,Marketing Manager
+cust_002,30,Male,Los Angeles,"Fitness, Technology, Gaming","early access, exclusive deals",75000,Bachelors,Software Engineer
+cust_003,28,Female,Chicago,"Fashion, Cooking, Art","personalized recommendations, loyalty rewards",60000,Masters,Graphic Designer
+cust_004,35,Male,Houston,"Sports, Cars, Music","discounts, new releases",90000,Bachelors,Sales Manager
+cust_005,22,Female,Phoenix,"Travel, Photography, Reading","student discounts, seasonal sales",30000,Associate,Photographer
+cust_006,40,Male,Philadelphia,"Investing, Real Estate, Wine","exclusive events, premium offers",120000,Masters,Financial Analyst
+cust_007,27,Female,San Antonio,"Yoga, Wellness, Fashion","wellness discounts, new arrivals",55000,Bachelors,Yoga Instructor
+cust_008,33,Male,San Diego,"Technology, Gaming, Movies","early access, bundle deals",85000,Masters,IT Consultant
+cust_009,29,Female,Dallas,"Fashion, Beauty, Travel","loyalty rewards, personalized offers",70000,Bachelors,Fashion Designer
+cust_010,45,Male,San Jose,"Cars, Technology, Sports","exclusive deals, premium offers",150000,Masters,Automotive Engineer
+cust_011,26,Female,Austin,"Music, Travel, Food","discounts, new releases",48000,Bachelors,Event Planner
+cust_012,31,Male,Jacksonville,"Fitness, Technology, Gaming","early access, exclusive deals",80000,Masters,Data Scientist
+cust_013,24,Female,San Francisco,"Art, Fashion, Travel","student discounts, seasonal sales",40000,Bachelors,Artist
+cust_014,38,Male,Columbus,"Investing, Real Estate, Wine","exclusive events, premium offers",110000,Masters,Real Estate Agent
+cust_015,23,Female,Indianapolis,"Fitness, Cooking, Reading","wellness discounts, new arrivals",35000,Associate,Personal Trainer
+cust_016,36,Male,Seattle,"Technology, Gaming, Movies","early access, bundle deals",95000,Masters,Game Developer
+cust_017,28,Female,Denver,"Fashion, Beauty, Travel","loyalty rewards, personalized offers",65000,Bachelors,Makeup Artist
+cust_018,42,Male,Washington DC,"Cars, Technology, Sports","exclusive deals, premium offers",130000,Masters,Mechanical Engineer
+cust_019,27,Female,Boston,"Music, Travel, Food","discounts, new releases",50000,Bachelors,Musician
+cust_020,34,Male,Nashville,"Fitness, Technology, Gaming","early access, exclusive deals",88000,Masters,Fitness Coach
+cust_021,25,Female,Portland,"Art, Fashion, Travel","student discounts, seasonal sales",42000,Bachelors,Illustrator
+cust_022,39,Male,Oklahoma City,"Investing, Real Estate, Wine","exclusive events, premium offers",115000,Masters,Investment Banker
+cust_023,26,Female,Las Vegas,"Fitness, Cooking, Reading","wellness discounts, new arrivals",38000,Associate,Nutritionist
+cust_024,37,Male,Baltimore,"Technology, Gaming, Movies","early access, bundle deals",92000,Masters,Software Developer
+cust_025,29,Female,Louisville,"Fashion, Beauty, Travel","loyalty rewards, personalized offers",68000,Bachelors,Fashion Stylist
+cust_026,43,Male,Milwaukee,"Cars, Technology, Sports","exclusive deals, premium offers",140000,Masters,Automotive Designer
+cust_027,24,Female,Albuquerque,"Music, Travel, Food","discounts, new releases",45000,Bachelors,Music Producer
+cust_028,32,Male,Tucson,"Fitness, Technology, Gaming","early access, exclusive deals",82000,Masters,Personal Trainer
+cust_029,27,Female,Fresno,"Art, Fashion, Travel","student discounts, seasonal sales",47000,Bachelors,Art Curator
+cust_030,41,Male,Sacramento,"Investing, Real Estate, Wine","exclusive events, premium offers",125000,Masters,Real Estate Developer
+cust_031,26,Female,Mesa,"Fitness, Cooking, Reading","wellness discounts, new arrivals",40000,Associate,Chef
+cust_032,35,Male,Kansas City,"Technology, Gaming, Movies","early access, bundle deals",90000,Masters,Game Designer
+cust_033,28,Female,Atlanta,"Fashion, Beauty, Travel","loyalty rewards, personalized offers",70000,Bachelors,Fashion Blogger
+cust_034,44,Male,Colorado Springs,"Cars, Technology, Sports","exclusive deals, premium offers",135000,Masters,Mechanical Engineer
+cust_035,25,Female,Raleigh,"Music, Travel, Food","discounts, new releases",49000,Bachelors,Music Teacher
+cust_036,33,Male,Omaha,"Fitness, Technology, Gaming","early access, exclusive deals",86000,Masters,Fitness Instructor
+cust_037,27,Female,Long Beach,"Art, Fashion, Travel","student discounts, seasonal sales",43000,Bachelors,Art Director
+cust_038,40,Male,Virginia Beach,"Investing, Real Estate, Wine","exclusive events, premium offers",118000,Masters,Financial Planner
+cust_039,26,Female,Miami,"Fitness, Cooking, Reading","wellness discounts, new arrivals",41000,Associate,Dietitian
+cust_040,36,Male,Oakland,"Technology, Gaming, Movies","early access, bundle deals",94000,Masters,App Developer
+cust_041,29,Female,Minneapolis,"Fashion, Beauty, Travel","loyalty rewards, personalized offers",72000,Bachelors,Fashion Consultant
+cust_042,45,Male,Tulsa,"Cars, Technology, Sports","exclusive deals, premium offers",145000,Masters,Automotive Engineer
+cust_043,24,Female,Wichita,"Music, Travel, Food","discounts, new releases",46000,Bachelors,Music Therapist
+cust_044,31,Male,New Orleans,"Fitness, Technology, Gaming","early access, exclusive deals",83000,Masters,Fitness Trainer
+cust_045,28,Female,Arlington,"Art, Fashion, Travel","student discounts, seasonal sales",44000,Bachelors,Art Teacher
+cust_046,42,Male,Cleveland,"Investing, Real Estate, Wine","exclusive events, premium offers",128000,Masters,Real Estate Investor
+cust_047,25,Female,Bakersfield,"Fitness, Cooking, Reading","wellness discounts, new arrivals",39000,Associate,Health Coach
+cust_048,37,Male,Tampa,"Technology, Gaming, Movies","early access, bundle deals",91000,Masters,Game Programmer
+cust_049,30,Female,Aurora,"Fashion, Beauty, Travel","loyalty rewards, personalized offers",74000,Bachelors,Fashion Influencer
+cust_050,46,Male,Anaheim,"Cars, Technology, Sports","exclusive deals, premium offers",155000,Masters,Automotive Designer
+cust_051,26,Female,Honolulu,"Music, Travel, Food","discounts, new releases",50000,Bachelors,Music Producer
+cust_052,32,Male,Riverside,"Fitness, Technology, Gaming","early access, exclusive deals",87000,Masters,Fitness Coach
+cust_053,27,Female,Santa Ana,"Art, Fashion, Travel","student discounts, seasonal sales",45000,Bachelors,Art Curator
+cust_054,41,Male,Corpus Christi,"Investing, Real Estate, Wine","exclusive events, premium offers",130000,Masters,Real Estate Agent
+cust_055,25,Female,Lexington,"Fitness, Cooking, Reading","wellness discounts, new arrivals",42000,Associate,Nutritionist
+cust_056,38,Male,Stockton,"Technology, Gaming, Movies","early access, bundle deals",93000,Masters,Software Engineer
+cust_057,28,Female,Henderson,"Fashion, Beauty, Travel","loyalty rewards, personalized offers",71000,Bachelors,Fashion Stylist
+cust_058,43,Male,St. Paul,"Cars, Technology, Sports","exclusive deals, premium offers",142000,Masters,Mechanical Engineer
+cust_059,24,Female,St. Louis,"Music, Travel, Food","discounts, new releases",48000,Bachelors,Music Teacher
+cust_060,34,Male,Cincinnati,"Fitness, Technology, Gaming","early access, exclusive deals",89000,Masters,Fitness Instructor
+cust_061,26,Female,Pittsburgh,"Art, Fashion, Travel","student discounts, seasonal sales",46000,Bachelors,Art Director
+cust_062,39,Male,Greensboro,"Investing, Real Estate, Wine","exclusive events, premium offers",122000,Masters,Financial Advisor
+cust_063,27,Female,Anchorage,"Fitness, Cooking, Reading","wellness discounts, new arrivals",43000,Associate,Chef
+cust_064,35,Male,Plano,"Technology, Gaming, Movies","early access, bundle deals",95000,Masters,Game Developer
+cust_065,29,Female,Lincoln,"Fashion, Beauty, Travel","loyalty rewards, personalized offers",73000,Bachelors,Fashion Blogger
+cust_066,44,Male,Orlando,"Cars, Technology, Sports","exclusive deals, premium offers",148000,Masters,Automotive Engineer
+cust_067,25,Female,Irvine,"Music, Travel, Food","discounts, new releases",49000,Bachelors,Music Therapist
+cust_068,33,Male,Newark,"Fitness, Technology, Gaming","early access, exclusive deals",84000,Masters,Personal Trainer
+cust_069,28,Female,Toledo,"Art, Fashion, Travel","student discounts, seasonal sales",47000,Bachelors,Art Teacher
+cust_070,40,Male,Chula Vista,"Investing, Real Estate, Wine","exclusive events, premium offers",132000,Masters,Real Estate Developer
+cust_071,26,Female,Fort Wayne,"Fitness, Cooking, Reading","wellness discounts, new arrivals",44000,Associate,Health Coach
+cust_072,36,Male,Jersey City,"Technology, Gaming, Movies","early access, bundle deals",96000,Masters,App Developer
+cust_073,30,Female,Chandler,"Fashion, Beauty, Travel","loyalty rewards, personalized offers",75000,Bachelors,Fashion Consultant
+cust_074,45,Male,Lubbock,"Cars, Technology, Sports","exclusive deals, premium offers",150000,Masters,Automotive Designer
+cust_075,24,Female,Madison,"Music, Travel, Food","discounts, new releases",50000,Bachelors,Music Producer
+cust_076,32,Male,Scottsdale,"Fitness, Technology, Gaming","early access, exclusive deals",88000,Masters,Fitness Trainer
+cust_077,27,Female,Reno,"Art, Fashion, Travel","student discounts, seasonal sales",48000,Bachelors,Art Curator
+cust_078,41,Male,Glendale,"Investing, Real Estate, Wine","exclusive events, premium offers",135000,Masters,Real Estate Investor
+cust_079,25,Female,Buffalo,"Fitness, Cooking, Reading","wellness discounts, new arrivals",45000,Associate,Dietitian
+cust_080,37,Male,North Las Vegas,"Technology, Gaming, Movies","early access, bundle deals",97000,Masters,Game Programmer
+cust_081,29,Female,Fremont,"Fashion, Beauty, Travel","loyalty rewards, personalized offers",76000,Bachelors,Fashion Influencer
+cust_082,46,Male,Irving,"Cars, Technology, Sports","exclusive deals, premium offers",155000,Masters,Automotive Designer
+cust_083,26,Female,Boise,"Music, Travel, Food","discounts, new releases",51000,Bachelors,Music Teacher
+cust_084,34,Male,Richmond,"Fitness, Technology, Gaming","early access, exclusive deals",89000,Masters,Fitness Coach
+cust_085,28,Female,Baton Rouge,"Art, Fashion, Travel","student discounts, seasonal sales",49000,Bachelors,Art Director
+cust_086,42,Male,Spokane,"Investing, Real Estate, Wine","exclusive events, premium offers",140000,Masters,Financial Planner
+cust_087,27,Female,San Bernardino,"Fitness, Cooking, Reading","wellness discounts, new arrivals",46000,Associate,Nutritionist
+cust_088,35,Male,Modesto,"Technology, Gaming, Movies","early access, bundle deals",98000,Masters,Software Engineer
+cust_089,30,Female,Fontana,"Fashion, Beauty, Travel","loyalty rewards, personalized offers",77000,Bachelors,Fashion Stylist
+cust_090,47,Male,Santa Clarita,"Cars, Technology, Sports","exclusive deals, premium offers",160000,Masters,Mechanical Engineer
+cust_091,25,Female,Port St. Lucie,"Music, Travel, Food","discounts, new releases",52000,Bachelors,Music Therapist
+cust_092,33,Male,Fayetteville,"Fitness, Technology, Gaming","early access, exclusive deals",90000,Masters,Fitness Instructor
+cust_093,28,Female,McKinney,"Art, Fashion, Travel","student discounts, seasonal sales",50000,Bachelors,Art Teacher
+cust_094,43,Male,Cary,"Investing, Real Estate, Wine","exclusive events, premium offers",145000,Masters,Real Estate Agent
+cust_095,26,Female,Shreveport,"Fitness, Cooking, Reading","wellness discounts, new arrivals",47000,Associate,Chef
+cust_096,36,Male,Frisco,"Technology, Gaming, Movies","early access, bundle deals",99000,Masters,Game Developer
+cust_097,31,Female,Oxnard,"Fashion, Beauty, Travel","loyalty rewards, personalized offers",78000,Bachelors,Fashion Blogger
+cust_098,48,Male,Yonkers,"Cars, Technology, Sports","exclusive deals, premium offers",165000,Masters,Automotive Engineer
+cust_099,27,Female,Amarillo,"Music, Travel, Food","discounts, new releases",53000,Bachelors,Music Producer
+cust_100,34,Male,Huntsville,"Fitness, Technology, Gaming","early access, exclusive deals",91000,Masters,Personal Trainer
