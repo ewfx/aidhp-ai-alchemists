@@ -17,12 +17,11 @@
 Modern statement expect highly personalised experiences that cater unique preferences. In this hackathon, participants wll develop a generative Ai driven solution that enchances hyper personalisation by analysing customer profiles, social media activity, purchase history, sentiment data, and demographic details.The challenge is to design a system that generates personalised recommendation for products ,services,or content while also providing actionable insights for businesses to optimise customer enagegement.
 
 ## 🎥 Demo
-🔗 [Live Demo](#) (if applicable)  
-📹 [Video Demo](#) (if applicable)  
+🔗 Demo
+<video controls src="artifacts/demo/2025-03-26 16-15-44.mp4" title="Title"></video> 
 🖼️ Screenshots:
 
-
-![Screenshot 1](link-to-image)
+![alt text](artifacts/demo/image.png)
 
 ## 💡 Inspiration
 In today’s digital age, consumers are overwhelmed with generic recommendations and impersonal marketing. Businesses struggle to cut through the noise and deliver truly relevant experiences, leading to disengagement, lower conversion rates, and missed revenue opportunities.
