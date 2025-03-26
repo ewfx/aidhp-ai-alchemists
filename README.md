@@ -14,47 +14,52 @@
 ---
 
 ## 🎯 Introduction
-A brief overview of your project and its purpose. Mention which problem statement are your attempting to solve. Keep it concise and engaging.
+Modern statement expect highly personalised experiences that cater unique preferences. In this hackathon, participants wll develop a generative Ai driven solution that enchances hyper personalisation by analysing customer profiles, social media activity, purchase history, sentiment data, and demographic details.The challenge is to design a system that generates personalised recommendation for products ,services,or content while also providing actionable insights for businesses to optimise customer enagegement.
 
 ## 🎥 Demo
 🔗 [Live Demo](#) (if applicable)  
 📹 [Video Demo](#) (if applicable)  
 🖼️ Screenshots:
 
+
 ![Screenshot 1](link-to-image)
 
 ## 💡 Inspiration
-What inspired you to create this project? Describe the problem you're solving.
+In today’s digital age, consumers are overwhelmed with generic recommendations and impersonal marketing. Businesses struggle to cut through the noise and deliver truly relevant experiences, leading to disengagement, lower conversion rates, and missed revenue opportunities.
 
 ## ⚙️ What It Does
-Explain the key features and functionalities of your project.
+Recommendation of highly relevant products services or content based on enagegement history,purchase paterns and sentiments analysis.
 
 ## 🛠️ How We Built It
-Briefly outline the technologies, frameworks, and tools used in development.
-
-## 🚧 Challenges We Faced
-Describe the major technical or non-technical challenges your team encountered.
+We have used Google Gen AI model to predict the custom suggestion of products / services
 
 ## 🏃 How to Run
 1. Clone the repository  
    ```sh
    git clone https://github.com/your-repo.git
    ```
-2. Install dependencies  
+2. Create Python Virtual Env
    ```sh
-   npm install  # or pip install -r requirements.txt (for Python)
+   python -m venv venv
    ```
-3. Run the project  
+3. Install Dependencies  
    ```sh
-   npm start  # or python app.py
+   pip install -r requirements.txt
    ```
+4. Create API Key in Google AI studio and replace in OAI_CONFIG_LIST file
+5. Run App
+   ```sh
+      python main.py
+   ```
+
 
 ## 🏗️ Tech Stack
-- 🔹 Frontend: React / Vue / Angular
-- 🔹 Backend: Node.js / FastAPI / Django
-- 🔹 Database: PostgreSQL / Firebase
-- 🔹 Other: OpenAI API / Twilio / Stripe
+- 🔹 Backend: FastAPI
+- 🔹 Other: Google AI
 
 ## 👥 Team
-- **Your Name** - [GitHub](#) | [LinkedIn](#)
-- **Teammate 2** - [GitHub](#) | [LinkedIn](#)
+- Sanjeev
+- Suhail
+- Vijay
+- Vamsi
+- Pradeep
